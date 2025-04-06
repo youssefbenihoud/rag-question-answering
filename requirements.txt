@@ -1,2 +1,3 @@
 transformers
 sentence-transformers
+gradio # Für die Benutzeroberfläche
